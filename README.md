@@ -1,4 +1,4 @@
-ASSIGMNET OVERVIEW
+📌 ASSIGMNET OVERVIEW
 
 This assignment focuses on understanding and applying Oracle Multitenant Architecture concepts. The work involved creating, managing, verifying, and deleting Pluggable Databases (PDBs), as well as configuring database administration tools.
 
